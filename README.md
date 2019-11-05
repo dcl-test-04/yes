@@ -1,2 +1,1 @@
-# yes
-Yes's repo
+# Yes's repo
